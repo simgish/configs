@@ -1,3 +1,6 @@
+alias ll='ls -alF'
+alias la='ls -A'
+
 alias ga='git add'
 alias gp='git push'
 alias gl='git log'
