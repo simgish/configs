@@ -1,0 +1,8 @@
+[url "http://"]
+	insteadOf = git://
+[color]
+	ui = true
+[push]
+	default = current
+[alias]
+	lg = log --graph \n--pretty=format:'%Cred%h%Creset\n-%C(yellow)%d%Creset %s %Cgreen(%cr)\n%C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
