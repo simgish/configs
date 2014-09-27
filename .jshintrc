@@ -1,0 +1,22 @@
+{
+	"globals": {
+		"Mondo": true,
+		"gaigUi": true,
+		"angulage", true
+	},
+
+	"nonew": true,
+	"curly": true,
+	"latedef": true,
+	"unused": true,
+	"noarg": true,
+	"forin": true,
+	"noempty": true,
+	"node": true,
+	"strict": true,
+	"undefined": true,
+	"bitwise": true,
+	"browser": true,
+	"quotmark": "single",
+	"indent": 4
+}
