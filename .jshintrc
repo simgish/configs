@@ -2,7 +2,7 @@
 	"globals": {
 		"Mondo": true,
 		"gaigUi": true,
-		"angulage", true
+		"angular", true
 	},
 
 	"nonew": true,
